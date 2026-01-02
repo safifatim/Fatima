@@ -17,6 +17,9 @@ I am currently focusing on:
 - Academic projects and practical implementation
 
 ## 🛠️ Skills & Technologies
+- **Languages:** HTML, CSS, Java, Assembly (8086)
+- **Concepts:** Data Structures, OOP, Software Engineering Fundamentals
+- **Tools:** Git, GitHub, VS Code
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
