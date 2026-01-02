@@ -18,9 +18,24 @@ I am currently focusing on:
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** HTML, CSS, Java, Assembly (8086)
-- **Concepts:** Data Structures, OOP, Software Engineering Fundamentals, Fundamentals of Programming(Fop)
-- **Tools:** Git, GitHub, VS Code
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+</p>
+
+### 📚 Concepts
+- Object-Oriented Programming (OOP)
+- Data Structures
+- Software Engineering Fundamentals
+- Assembly Language (8086)
+
+### 🧰 Tools
+- Visual Studio Code
+- Git & GitHub
+
 
 ## 📂 Projects
 
