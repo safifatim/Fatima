@@ -1,0 +1,40 @@
+# Fatima
+# Hi, I'm Fatima 👋
+
+🎓 **Software Engineering Student**  
+💻 **Beginner Programmer | Web Development Enthusiast**  
+🌸 **Currently working on a Flower Shop Website – *Blossom and Bloom***
+
+
+## 👩‍💻 About Me
+
+I am a Software Engineering student with a strong interest in programming and web development.  
+I enjoy learning new technologies and building academic and personal projects to improve my skills.
+
+I am currently focusing on:
+- Web development fundamentals
+- Programming concepts
+- Academic projects and practical implementation
+
+## 🛠️ Skills & Technologies
+
+- **Languages:** HTML, CSS, Java, Assembly (8086)
+- **Concepts:** Data Structures, OOP, Software Engineering Fundamentals, Fundamentals of Programming(Fop)
+- **Tools:** Git, GitHub, VS Code
+
+## 📂 Projects
+
+- 🌸 **Blossom and Bloom** – Flower Shop Website  
+- 🖥️ **Portfolio Website** (In Progress)  
+- 🍽️ **Restaurant Management System** (8086 Assembly)
+
+
+## 🌱 Currently Learning
+
+- Java Programming
+- Web Development
+- Software Design Concepts
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/your-username
