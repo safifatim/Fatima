@@ -1,4 +1,3 @@
-# Fatima
 # Hi, I'm Fatima 👋
 
 🎓 **Software Engineering Student**  
