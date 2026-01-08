@@ -55,3 +55,4 @@ I am currently focusing on:
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/safifatim/Fatima.git
+- Linkdin: www.linkedin.com/in/fatima-safi-899065320
