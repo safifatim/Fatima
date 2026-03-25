@@ -2,8 +2,6 @@
 
 🎓 **Software Engineering Student**  
 💻 **Beginner Programmer | Web Development Enthusiast**  
-🌸 **Currently working on a Flower Shop Website – *Blossom and Bloom***
-
 
 ## 👩‍💻 About Me
 
