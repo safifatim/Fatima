@@ -1,125 +1,119 @@
-# Hi, I'm Fatima 👋
+# 👩‍💻 Fatima Safi 
 
-### 🎓 Software Engineering Student
-**SZABIST University | Class of 2028**
-*“Passionate about building functional web solutions and mastering the logic behind the code.”*
-
----
-
-### 👩‍💻 About Me
-I am a Software Engineering student with a strong interest in programming and web development. I enjoy learning new technologies and building academic and personal projects to improve my skills. 
-
-**Current Focus:**
-*   🌐 **Web Development Fundamentals** — Crafting responsive and clean user interfaces.
-*   💻 **Programming Concepts** — Deep-diving into logic and algorithmic efficiency.
-*   🏗️ **Practical Implementation** — Bridging the gap between theory and functional academic projects.
+🎓 BS Software Engineering  
+🏫 SZABIST University
 
 ---
 
-### 🛠️ Skills & Technologies
+## 🚀 About Me
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | HTML, CSS, Java, Assembly (8086) |
-| **Concepts** | Data Structures, OOP, Software Engineering Fundamentals |
-| **Tools** | Git, GitHub, VS Code |
+I am a passionate Software Engineering student focused on building efficient, scalable, and user-friendly software solutions. I enjoy exploring both low-level system programming and modern web technologies to better understand how software works from hardware interaction to full-stack application development.
 
----
-
-### 📂 Featured Projects
-
-#### 🌸 Blossom and Bloom
-> **Flower Shop Website**  
-> A front-end project focused on aesthetic UI and responsive web design using HTML and CSS.
-
-#### 🍽️ Restaurant Management System
-> **8086 Assembly Language**  
-> A technical project implementing low-level logic, memory management, and menu-driven interfaces.
-
-#### 🖥️ Portfolio Website
-> **Status: 🏗️ In Progress**  
-> My personal digital hub. I am currently refining the design and documenting my project journey to show a professional engineering perspective.
+Currently, I am strengthening my skills in:
+- Software Architecture
+- Database Systems
+- Operating Systems
+- Front-End Development
+- Problem Solving & System Design
 
 ---
 
-### 🌱 Currently Learning
-*   ☕ **Java Programming** (Advanced implementation and design patterns)
-*   🎨 **Modern Web Development** (Interactivity and Frameworks)
-*   📐 **Software Design Concepts** (UML, System Architecture, and Modeling)
+# 🛠️ Technical Skills
+
+## 💻 Programming Languages
+- Java
+- Python
+- C
+- 8086 Assembly Language
 
 ---
 
-### 🧰 Tools & Environment
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+## 🌐 Web Development
+- HTML5
+- CSS3
+- Responsive Web Design
+- Wordpress (Plugins,themes)
 
 ---
 
-### 🤝 Connect with me
-[LinkedIn](https://linkedin.com) • [Email](mailto:your-email@example.com) • [GitHub](https://github.com/your-username)
-
----
-*“Turning logic into reality, one line of code at a time.”*# Hi, I'm Fatima 👋
-
-### 🎓 Software Engineering Student
-**SZABIST University | Class of 2028**
-*“Passionate about building functional web solutions and mastering the logic behind the code.”*
-
----
-
-### 👩‍💻 About Me
-I am a Software Engineering student with a strong interest in programming and web development. I enjoy learning new technologies and building academic and personal projects to improve my skills. 
-
-**Current Focus:**
-*   🌐 **Web Development Fundamentals** — Crafting responsive and clean user interfaces.
-*   💻 **Programming Concepts** — Deep-diving into logic and algorithmic efficiency.
-*   🏗️ **Practical Implementation** — Bridging the gap between theory and functional academic projects.
+## 🗄️ Database Management
+### PostgreSQL
+- CRUD Operations
+- Complex Joins
+- Aggregate Functions
+- Database Normalization
+- Relational Schema Design
 
 ---
 
-### 🛠️ Skills & Technologies
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | HTML, CSS, Java, Assembly (8086) |
-| **Concepts** | Data Structures, OOP, Software Engineering Fundamentals |
-| **Tools** | Git, GitHub, VS Code |
-
----
-
-### 📂 Featured Projects
-
-#### 🌸 Blossom and Bloom
-> **Flower Shop Website**  
-> A front-end project focused on aesthetic UI and responsive web design using HTML and CSS.
-
-#### 🍽️ Restaurant Management System
-> **8086 Assembly Language**  
-> A technical project implementing low-level logic, memory management, and menu-driven interfaces.
-
-#### 🖥️ Portfolio Website
-> **Status: 🏗️ In Progress**  
-> My personal digital hub. I am currently refining the design and documenting my project journey to show a professional engineering perspective.
+## 🖥️ Operating Systems & Tools
+- Linux (Ubuntu)
+- Command Line Operations
+- Shell Scripting Basics
+- Git & GitHub
+- File Permissions & User Management
 
 ---
 
-### 🌱 Currently Learning
-*   ☕ **Java Programming** (Advanced implementation and design patterns)
-*   🎨 **Modern Web Development** (Interactivity and Frameworks)
-*   📐 **Software Design Concepts** (UML, System Architecture, and Modeling)
+## 📐 Software Engineering
+- Object-Oriented Programming (OOP)
+- UML Diagrams
+- System Analysis & Design
+- Clean Architecture Principles
+- Software Documentation
 
 ---
 
-### 🧰 Tools & Environment
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+# 📂 Featured Projects
+
+## 🍽️ Restaurant Management System
+### `8086 Assembly Language`
+
+Developed a low-level restaurant management system using Assembly Language by handling:
+- CPU registers
+- BIOS interrupts
+- User input management
+- Memory-efficient operations
+
+### Key Learning
+Improved understanding of hardware-software interaction and low-level system execution.
 
 ---
 
-### 🤝 Connect with me
-[LinkedIn](https://linkedin.com) • [Email](mailto:your-email@example.com) • [GitHub](https://github.com/your-username)
+## 🌸 Blossom and Bloom
+### `Front-End Website`
+
+Designed and developed a responsive flower shop website focused on:
+- Responsive layouts
+- Accessibility
+- Semantic HTML
+- Modern UI structure
+
+### Key Learning
+Enhanced front-end development and responsive design skills.
 
 ---
-*“Turning logic into reality, one line of code at a time.”*
+
+# 🌱 Currently Learning
+- Advanced Data Structures
+- Operating System Scheduling Algorithms
+- Software Design Patterns
+- UI/UX Prototyping with Figma
+
+---
+
+# 🎯 Career Goal
+
+My goal is to become a professional Software Engineer capable of building scalable, maintainable, and impactful software solutions while continuously learning modern technologies and engineering methodologies.
+
+---
+
+# 🤝 Connect With Me
+
+📧 Email: safifatima656@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/fatima-safi-899065320/
+🐙 GitHub: 
+
+---
+
+> *"Software engineering is the art of solving problems with logic, creativity, and innovation."*
