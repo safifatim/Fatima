@@ -1,66 +1,125 @@
-# Hi there, I'm Fatima! 👋 
+# Hi, I'm Fatima 👋
 
-### 🎓 Software Engineering Student @ SZABIST University
-I am a dedicated Software Engineering student (Class of 2028) with a passion for building functional, user-centric applications. I enjoy bridging the gap between low-level logic and modern web interfaces.
+### 🎓 Software Engineering Student
+**SZABIST University | Class of 2028**
+*“Passionate about building functional web solutions and mastering the logic behind the code.”*
 
 ---
 
-### 💻 Technical Toolbox
+### 👩‍💻 About Me
+I am a Software Engineering student with a strong interest in programming and web development. I enjoy learning new technologies and building academic and personal projects to improve my skills. 
 
-| Category | Technologies |
+**Current Focus:**
+*   🌐 **Web Development Fundamentals** — Crafting responsive and clean user interfaces.
+*   💻 **Programming Concepts** — Deep-diving into logic and algorithmic efficiency.
+*   🏗️ **Practical Implementation** — Bridging the gap between theory and functional academic projects.
+
+---
+
+### 🛠️ Skills & Technologies
+
+| Category | Skills |
 | :--- | :--- |
-| **Languages** | Java, Python, C, 8086 Assembly |
-| **Web Development** | HTML5, CSS3, WordPress |
-| **Databases** | PostgreSQL, SQL |
-| **Tools & Platforms** | Git, GitHub, VS Code, Figma |
-| **Core Concepts** | OOP, Data Structures, OOAD (UML), OS Scheduling |
+| **Languages** | HTML, CSS, Java, Assembly (8086) |
+| **Concepts** | Data Structures, OOP, Software Engineering Fundamentals |
+| **Tools** | Git, GitHub, VS Code |
 
 ---
 
 ### 📂 Featured Projects
 
+#### 🌸 Blossom and Bloom
+> **Flower Shop Website**  
+> A front-end project focused on aesthetic UI and responsive web design using HTML and CSS.
+
 #### 🍽️ Restaurant Management System
-*   **Tech:** 8086 Assembly Language
-*   **Description:** A low-level implementation of a menu-driven system. Handled memory management and register manipulation to create a functional ordering interface.
-*   [View Project](link-to-your-repo)
+> **8086 Assembly Language**  
+> A technical project implementing low-level logic, memory management, and menu-driven interfaces.
 
-#### 🌸 Blossom and Bloom – Flower Shop
-*   **Tech:** HTML, CSS
-*   **Description:** A responsive front-end website for a local flower shop, focusing on clean UI/UX and fluid layout transitions.
-*   [View Project](link-to-your-repo)
-
-#### 💼 HR Management System
-*   **Tech:** Java
-*   **Description:** Built a comprehensive system featuring employee registration, interview modules, and automated salary calculators.
-*   [View Project](link-to-your-repo)
+#### 🖥️ Portfolio Website
+> **Status: 🏗️ In Progress**  
+> My personal digital hub. I am currently refining the design and documenting my project journey to show a professional engineering perspective.
 
 ---
 
-### 🌱 Currently Learning & Exploring
-*   **Deepening Java Knowledge:** Exploring advanced Object-Oriented Analysis and Design (OOAD).
-*   **Web Refinement:** Transitioning from fundamentals to modern JavaScript frameworks.
-*   **Operating Systems:** Studying CPU scheduling algorithms and system synchronization.
+### 🌱 Currently Learning
+*   ☕ **Java Programming** (Advanced implementation and design patterns)
+*   🎨 **Modern Web Development** (Interactivity and Frameworks)
+*   📐 **Software Design Concepts** (UML, System Architecture, and Modeling)
 
 ---
 
-### 🛠️ Professional Workflow
-I believe in "measure twice, cut once." My development process includes:
-*   Creating **UML Diagrams** (Use Case, Activity, Sequence) before coding.
-*   Version control via **Git** for every project.
-*   Writing clean, documented code for better maintainability.
+### 🧰 Tools & Environment
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### 📫 Let's Connect!
-*   **LinkedIn:** [Your Profile Link]
-*   **Email:** [Your Email Address]
-*   **Portfolio:** [Your Portfolio Website Link]
+### 🤝 Connect with me
+[LinkedIn](https://linkedin.com) • [Email](mailto:your-email@example.com) • [GitHub](https://github.com/your-username)
+
+---
+*“Turning logic into reality, one line of code at a time.”*# Hi, I'm Fatima 👋
+
+### 🎓 Software Engineering Student
+**SZABIST University | Class of 2028**
+*“Passionate about building functional web solutions and mastering the logic behind the code.”*
+
+---
+
+### 👩‍💻 About Me
+I am a Software Engineering student with a strong interest in programming and web development. I enjoy learning new technologies and building academic and personal projects to improve my skills. 
+
+**Current Focus:**
+*   🌐 **Web Development Fundamentals** — Crafting responsive and clean user interfaces.
+*   💻 **Programming Concepts** — Deep-diving into logic and algorithmic efficiency.
+*   🏗️ **Practical Implementation** — Bridging the gap between theory and functional academic projects.
+
+---
+
+### 🛠️ Skills & Technologies
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | HTML, CSS, Java, Assembly (8086) |
+| **Concepts** | Data Structures, OOP, Software Engineering Fundamentals |
+| **Tools** | Git, GitHub, VS Code |
+
+---
+
+### 📂 Featured Projects
+
+#### 🌸 Blossom and Bloom
+> **Flower Shop Website**  
+> A front-end project focused on aesthetic UI and responsive web design using HTML and CSS.
+
+#### 🍽️ Restaurant Management System
+> **8086 Assembly Language**  
+> A technical project implementing low-level logic, memory management, and menu-driven interfaces.
+
+#### 🖥️ Portfolio Website
+> **Status: 🏗️ In Progress**  
+> My personal digital hub. I am currently refining the design and documenting my project journey to show a professional engineering perspective.
+
+---
+
+### 🌱 Currently Learning
+*   ☕ **Java Programming** (Advanced implementation and design patterns)
+*   🎨 **Modern Web Development** (Interactivity and Frameworks)
+*   📐 **Software Design Concepts** (UML, System Architecture, and Modeling)
+
+---
+
+### 🧰 Tools & Environment
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 🤝 Connect with me
+[LinkedIn](https://linkedin.com) • [Email](mailto:your-email@example.com) • [GitHub](https://github.com/your-username)
 
 ---
 *“Turning logic into reality, one line of code at a time.”*
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/safifatim/Fatima.git
-- Linkdin: www.linkedin.com/in/fatima-safi-899065320
-- Fiver: https://www.fiverr.com/fatima_safi24/buying?source=avatar_menu_profile
