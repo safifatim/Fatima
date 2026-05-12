@@ -1,54 +1,63 @@
-# Hi, I'm Fatima 👋
+# Hi there, I'm Fatima! 👋 
 
-🎓 **Software Engineering Student**  
-💻 **Beginner Programmer | Web Development Enthusiast**  
+### 🎓 Software Engineering Student @ SZABIST University
+I am a dedicated Software Engineering student (Class of 2028) with a passion for building functional, user-centric applications. I enjoy bridging the gap between low-level logic and modern web interfaces.
 
-## 👩‍💻 About Me
+---
 
-I am a Software Engineering student with a strong interest in programming and web development.  
-I enjoy learning new technologies and building academic and personal projects to improve my skills.
+### 💻 Technical Toolbox
 
-I am currently focusing on:
-- Web development fundamentals
-- Programming concepts
-- Academic projects and practical implementation
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, Python, C, 8086 Assembly |
+| **Web Development** | HTML5, CSS3, WordPress |
+| **Databases** | PostgreSQL, SQL |
+| **Tools & Platforms** | Git, GitHub, VS Code, Figma |
+| **Core Concepts** | OOP, Data Structures, OOAD (UML), OS Scheduling |
 
-## 🛠️ Skills & Technologies
-- **Languages:** HTML, CSS, Java, Assembly (8086)
-- **Concepts:** Data Structures, OOP, Software Engineering Fundamentals
-- **Tools:** Git, GitHub, VS Code
+---
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-</p>
+### 📂 Featured Projects
 
-### 📚 Concepts
-- Object-Oriented Programming (OOP)
-- Data Structures
-- Software Engineering Fundamentals
-- Assembly Language (8086)
+#### 🍽️ Restaurant Management System
+*   **Tech:** 8086 Assembly Language
+*   **Description:** A low-level implementation of a menu-driven system. Handled memory management and register manipulation to create a functional ordering interface.
+*   [View Project](link-to-your-repo)
 
-### 🧰 Tools
-- Visual Studio Code
-- Git & GitHub
+#### 🌸 Blossom and Bloom – Flower Shop
+*   **Tech:** HTML, CSS
+*   **Description:** A responsive front-end website for a local flower shop, focusing on clean UI/UX and fluid layout transitions.
+*   [View Project](link-to-your-repo)
 
+#### 💼 HR Management System
+*   **Tech:** Java
+*   **Description:** Built a comprehensive system featuring employee registration, interview modules, and automated salary calculators.
+*   [View Project](link-to-your-repo)
 
-## 📂 Projects
+---
 
-- 🌸 **Blossom and Bloom** – Flower Shop Website  
-- 🖥️ **Portfolio Website** (In Progress)  
-- 🍽️ **Restaurant Management System** (8086 Assembly)
+### 🌱 Currently Learning & Exploring
+*   **Deepening Java Knowledge:** Exploring advanced Object-Oriented Analysis and Design (OOAD).
+*   **Web Refinement:** Transitioning from fundamentals to modern JavaScript frameworks.
+*   **Operating Systems:** Studying CPU scheduling algorithms and system synchronization.
 
+---
 
-## 🌱 Currently Learning
+### 🛠️ Professional Workflow
+I believe in "measure twice, cut once." My development process includes:
+*   Creating **UML Diagrams** (Use Case, Activity, Sequence) before coding.
+*   Version control via **Git** for every project.
+*   Writing clean, documented code for better maintainability.
 
-- Java Programming
-- Web Development
-- Software Design Concepts
+---
+
+### 📫 Let's Connect!
+*   **LinkedIn:** [Your Profile Link]
+*   **Email:** [Your Email Address]
+*   **Portfolio:** [Your Portfolio Website Link]
+
+---
+*“Turning logic into reality, one line of code at a time.”*
 
 ## 📫 Connect With Me
 
