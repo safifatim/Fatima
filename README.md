@@ -112,7 +112,7 @@ My goal is to become a professional Software Engineer capable of building scalab
 
 📧 Email: safifatima656@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/fatima-safi-899065320/
-🐙 GitHub: 
+🐙 GitHub: https://github.com/safifatim
 
 ---
 
